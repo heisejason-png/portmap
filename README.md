@@ -106,3 +106,4 @@ Make sure playwright is installed (`playwright install`), then run `pytest` to r
 
 Deployments to production are triggered automatically by updates to the main branch, or when this repository receives a "content update" notification from https://github.com/dtinit/portability-articles. You can observe the status of deployments [here](https://github.com/dtinit/portmap/actions/workflows/django.yml?query=branch%3Amain).
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
